@@ -1,0 +1,9 @@
+{
+    "FCM_API_KEY": "GO GET AN API KEY FOR FIREBASE CLOUD MESSAGING",
+    "LOG_FILE_NAME": "debug.log",
+    "user": "",
+    "password": "",
+    "host": "",
+    "port": "3306",
+    "database": ""
+}
